@@ -7,8 +7,7 @@ Welcome to the MERN Stack Assignments repository! This repository contains a ser
 1. [Assignments Overview](#assignments-overview)
 2. [Setup Instructions](#setup-instructions)
 3. [Assignment Details](#assignment-details)
-4. [Contributing](#contributing)
-5. [License](#license)
+
 
 ## Assignments Overview
 
