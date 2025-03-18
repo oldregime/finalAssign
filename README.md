@@ -37,10 +37,10 @@ The assignments are divided into four main categories:
 
 ### Navigate 
 cd MERN_Assignments/HTML_CSS_Assignment
-# or
+or
 cd MERN_Assignments/JavaScript_Assignment
-# or
+or
 cd MERN_Assignments/React_Assignment_Week3
-# or
+or
 cd MERN_Assignments/React_Express_Assignment
 
